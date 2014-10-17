@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[njo:home|Door43 (njo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-njo|d43-njo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-njo/archive/master.zip|d43-njo.zip]]
+
+**Recent Changes**
+{{changes>ns = njo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/njo|Ethnologue data]]
+
